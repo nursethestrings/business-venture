@@ -7,3 +7,4 @@ MAJOR MILESTONES:
 -- Admin dept purchases office stationaries, Purchase dept purchases office equipments such as computers and printers
 -- Developed an MVP for demo
 -- Launching creation of Beta product
+-- Beta Product Launched
