@@ -8,3 +8,4 @@ MAJOR MILESTONES:
 -- Developed an MVP for demo
 -- Launching creation of Beta product
 -- Beta Product Launched
+-- Press release of successful Beta Product Launch
